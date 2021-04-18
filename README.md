@@ -1,3 +1,5 @@
+This is whatsapp web clone project build with React and Redux. and firebase cloud database and Authentication. Implement the whole realtime chat system and authentication system. live app preview link: https://eager-cray-5440fe.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
